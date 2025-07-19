@@ -1,0 +1,13 @@
+[2025-07-19 16:19:59] > Ahmet sohbete katıldı.
+[2025-07-19 16:20:08] > Eren sohbete katıldı.
+[2025-07-19 16:20:20] <Ahmet>: Merhaba
+[2025-07-19 16:20:31] <Eren>: Merhabalar
+[2025-07-19 16:20:48] <Eren>: a****
+[2025-07-19 16:23:21] <Ahmet> (özel): �zel mesaj
+[2025-07-19 16:25:31] <Ahmet>: a
+[2025-07-19 16:25:31] <Ahmet>: a
+[2025-07-19 16:25:32] <Ahmet>: a
+[2025-07-19 16:25:32] <Ahmet>: a
+[2025-07-19 16:25:33] <Ahmet>: a
+[2025-07-19 16:26:23] > Ahmet sohbetten ayrıldı.
+[2025-07-19 16:27:04] > Eren sohbetten ayrıldı.
