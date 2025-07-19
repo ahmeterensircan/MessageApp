@@ -32,28 +32,43 @@ Bu proje, Java ile geliştirilmiş, çoklu istemci destekli, gerçek zamanlı, t
 ## Ekran Görüntüleri
 
 ### 1. Genel Mesajlaşma ve Sohbet
-![Genel mesajlaşma](Screenshots/Messages.png)
+![Genel mesajlaşma](MessageApp/Screenshots/Messages.png)
+
 Sohbet ekranında birden fazla kullanıcı mesajlaşabilir.
 
+<br/>
+
 ### 2. Spam Tespiti
-![Spam tespiti](Screenshots/spam.png)
+![Spam tespiti](MessageApp/Screenshots/spam.png)
+
 Aynı mesajı arka arkaya gönderen kullanıcıya uyarı verilir.
 
+<br/>
+
 ### 3. Özel Mesaj (Whisper)
-![Özel mesaj 1](Screenshots/privateMessage1.png)
-![Özel mesaj 2](Screenshots/private2.png)
+![Özel mesaj 1](MessageApp/Screenshots/privateMessage1.png)
+![Özel mesaj 2](MessageApp/Screenshots/private2.png)
+
 `/w kullanıcı mesaj` komutuyla sadece belirli bir kullanıcıya özel mesaj gönderilebilir.
 
+<br/>
+
 ### 4. Kullanıcı Listesi Komutu
-![Kullanıcı listesi](Screenshots/usersKomut.png)
+![Kullanıcı listesi](MessageApp/Screenshots/usersKomut.png)
+
 Sunucu terminalinden aktif kullanıcıları listeleme komutu (/users).
 
+<br/>
+
 ### 5. Kullanıcı Atma Komutu
-![Kullanıcı atma](Screenshots/Kick.png)
+![Kullanıcı atma](MessageApp/Screenshots/Kick.png)
+
 Sunucu terminalinden bir kullanıcıyı sohbetten atma komutu (/kick kullanıcı).
+<br/>
 
 ### 6. Sunucuyu Kapatma Komutu
-![Sunucu kapatma](Screenshots/shutdown.png)
+![Sunucu kapatma](MessageApp/Screenshots/shutdown.png)
+
 Sunucu terminalinden sunucuyu kapatma komutu (/shutdown).
 
 ## Notlar
