@@ -32,28 +32,28 @@ Bu proje, Java ile geliştirilmiş, çoklu istemci destekli, gerçek zamanlı, t
 ## Ekran Görüntüleri
 
 ### 1. Genel Mesajlaşma ve Sohbet
-![Genel mesajlaşma](screenshots/Messages.png)
+![Genel mesajlaşma](Screenshots/Messages.png)
 Sohbet ekranında birden fazla kullanıcı mesajlaşabilir.
 
 ### 2. Spam Tespiti
-![Spam tespiti](screenshots/spam.png)
+![Spam tespiti](Screenshots/spam.png)
 Aynı mesajı arka arkaya gönderen kullanıcıya uyarı verilir.
 
 ### 3. Özel Mesaj (Whisper)
-![Özel mesaj 1](screenshots/privateMessage1.png)
-![Özel mesaj 2](screenshots/private2.png)
+![Özel mesaj 1](Screenshots/privateMessage1.png)
+![Özel mesaj 2](Screenshots/private2.png)
 `/w kullanıcı mesaj` komutuyla sadece belirli bir kullanıcıya özel mesaj gönderilebilir.
 
 ### 4. Kullanıcı Listesi Komutu
-![Kullanıcı listesi](screenshots/usersKomut.png)
+![Kullanıcı listesi](Screenshots/usersKomut.png)
 Sunucu terminalinden aktif kullanıcıları listeleme komutu (/users).
 
 ### 5. Kullanıcı Atma Komutu
-![Kullanıcı atma](screenshots/Kick.png)
+![Kullanıcı atma](Screenshots/Kick.png)
 Sunucu terminalinden bir kullanıcıyı sohbetten atma komutu (/kick kullanıcı).
 
 ### 6. Sunucuyu Kapatma Komutu
-![Sunucu kapatma](screenshots/shutdown.png)
+![Sunucu kapatma](Screenshots/shutdown.png)
 Sunucu terminalinden sunucuyu kapatma komutu (/shutdown).
 
 ## Notlar
